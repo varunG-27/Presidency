@@ -1,0 +1,16 @@
+So Sir, what we can get from this video is we can find out the precisioj % of spam & its number in the list of emails.That we can do it in two ways 1.using the traintest,multinomialnb 2. directly importing the countvectorizer using pipeline().So bag of words means simply collection of same words together,as we had collected spam here.
+DeepSeek’s R-1 model has been making headlines globally for the past few days. It’s an open-source and affordable alternative to OpenAI’s o1 model. Yet, even before the buzz around R-1 has settled, the Chinese startup has unveiled another open-source AI image model called Janus-Pro.
+
+DeepSeek says Janus-Pro 7B outperforms OpenAI’s Dall-E 3 and Stable Diffusion in several benchmarks. But is it really that good? Does it live up to the claims, or is this just another model riding the AI hype?
+
+Let’s find out.
+
+What is Janus-Pro?
+In simple terms, Janus-Pro is a powerful AI model that can understand images and text and can also create images from text descriptions.
+
+Janus-Pro is an enhanced version of the Janus model, designed for unified multimodal understanding and generation. It has a better training method, more data, and a larger model. It also delivers more stable outputs for short prompts, with improved visual quality, richer details, and the ability to generate simple text.
+
+Take a look at some examples below:
+
+Prompt: The face of a beautiful girl
+
